@@ -107,7 +107,7 @@
 			<primaryColor>FFDFDF</primaryColor>
 			<secondaryColor>FFDFDF</secondaryColor>
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<fontSize>7</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<lineSpacing>2</lineSpacing>
 			<alignment>left</alignment>
