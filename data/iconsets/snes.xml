@@ -1,0 +1,19 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<iconB>../../_inc/buttons/snes/b.png</iconB>
+			<iconA>../../_inc/buttons/snes/a.png</iconA>
+			<iconX>../../_inc/buttons/snes/x.png</iconX>
+			<iconY>../../_inc/buttons/snes/y.png</iconY>
+			<iconR>../../_inc/buttons/snes/r.png</iconR>
+			<iconUpDownLeftRight>../../_inc/buttons/snes/dir-horizontal.png</iconUpDownLeftRight>
+			<iconUpDown>../../_inc/buttons/snes/dir-vertical.png</iconUpDown>
+			<iconLeftRight>../../_inc/buttons/snes/dir-horizontal.png</iconLeftRight>
+			<iconStart>../../_inc/buttons/snes/start.png</iconStart>
+			<iconSelect>../../_inc/buttons/snes/select.png</iconSelect>
+		</helpsystem>
+	</view>
+</theme>

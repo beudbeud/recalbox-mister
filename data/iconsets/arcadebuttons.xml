@@ -1,0 +1,19 @@
+﻿<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system, basic, detailed, gameclip">
+    <helpsystem name="help">
+      <fontPath>:/f8bitfortressplus.ttf</fontPath>
+      <fontSize>7</fontSize>
+      <iconB>../../_inc/buttons/arcade/b.png</iconB>
+      <iconA>../../_inc/buttons/arcade/a.png</iconA>
+      <iconX>../../_inc/buttons/arcade/x.png</iconX>
+      <iconY>../../_inc/buttons/arcade/y.png</iconY>
+      <iconR>../../_inc/buttons/arcade/r.png</iconR>
+      <iconUpDownLeftRight>../../_inc/buttons/arcade/dir-horizontal.png</iconUpDownLeftRight>
+      <iconUpDown>../../_inc/buttons/arcade/dir-vertical.png</iconUpDown>
+      <iconLeftRight>../../_inc/buttons/arcade/dir-horizontal.png</iconLeftRight>
+      <iconStart>../../_inc/buttons/arcade/start.png</iconStart>
+      <iconSelect>../../_inc/buttons/arcade/select.png</iconSelect>
+    </helpsystem>
+  </view>
+</theme>

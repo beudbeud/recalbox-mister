@@ -1,0 +1,20 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<iconB>../../_inc/buttons/xbox/a.png</iconB>
+			<iconA>../../_inc/buttons/xbox/b.png</iconA>
+			<iconX>../../_inc/buttons/xbox/y.png</iconX>
+			<iconY>../../_inc/buttons/xbox/x.png</iconY>
+			<iconR>../../_inc/buttons/xbox/r.png</iconR>
+			<iconUpDownLeftRight>../../_inc/buttons/xbox/dir-horizontal.png</iconUpDownLeftRight>
+			<iconUpDown>../../_inc/buttons/xbox/dir-vertical.png</iconUpDown>
+			<iconLeftRight>../../_inc/buttons/xbox/dir-horizontal.png</iconLeftRight>
+			<iconStart>../../_inc/buttons/xbox/start.png</iconStart>
+			<iconSelect>../../_inc/buttons/xbox/select.png</iconSelect>
+			<pos>0.05 0.88</pos>
+		</helpsystem>
+	</view>
+</theme>
