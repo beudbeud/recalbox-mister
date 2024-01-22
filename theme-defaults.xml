@@ -42,13 +42,11 @@
 				<defaultTransition>instant</defaultTransition>
 				<type>vertical</type>
 				<pos>0.277 0.3</pos>
-				<size>0.491 0.525</size>
+				<size>0.491 0.526</size>
 				<color>1E0000EE</color>
-				<maxLogoCount>10</maxLogoCount>
+				<maxLogoCount>9</maxLogoCount>
 				<logoAlignment>left</logoAlignment>
-				<logoScale>1</logoScale>
-				<fontPath>:/f8bitfortressplus.ttf</fontPath>
-				<fontSize>6</fontSize>
+				<logoScale>1.1</logoScale>
 			</carousel>
 		</view>
 	</feature>
@@ -57,6 +55,9 @@
 		<text name="systemInfo">
 			<pos>1 1</pos>
 		</text>
+		<image name="logo">
+			<path>./_inc/logo/$system.png</path>
+		</image>
 	</view>
 
 	<view name="menu, system, basic, detailed">
@@ -72,7 +73,7 @@
 
 	<view name="system, detailed, basic">
 		<box name="header" extra="true" pos="0.235 0.183" size="0.533 0.0625" color="FFDFDFEE"/>
-		<box name="left-column" extra="true" pos="0.235 0.3" size="0.042 0.525" color="FFDFDFEE"/>
+		<box name="left-column" extra="true" pos="0.235 0.3" size="0.043 0.525" color="FFDFDFEE"/>
 		<text name="screen-name" extra="true">
 			<rotation>270</rotation>
 			<color>000000</color>

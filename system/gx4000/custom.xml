@@ -1,0 +1,9 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="basic, detailed">
+		<text name="system-name" extra="true">
+			<text>GX4000</text>
+		</text>
+	</view>
+	
+</theme>
