@@ -1,0 +1,7 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="basic, detailed">
+		<image name="md_image" disabled="true"/>
+	</view>
+</theme>

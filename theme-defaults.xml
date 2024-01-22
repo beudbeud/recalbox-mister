@@ -61,8 +61,7 @@
 	</view>
 
 	<view name="menu, system, basic, detailed">
-		<image name="background_color" extra="true">
-			<path>./_inc/images/backgrounds/mono-noise.jpg</path>
+		<image name="background" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -126,9 +125,9 @@
 
 		<text name="logoText"/>
 
-		<image name="md_image" disabled="true"/>
 		<video name="md_video" disabled="true"/>
 		<rating name="md_rating" disabled="true"/>
+		<datetime name="md_releasedate" disabled="true"/>
 
 
 	</view>
