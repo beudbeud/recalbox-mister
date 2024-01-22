@@ -1,0 +1,123 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="menu">
+		<menuSwitch name="menuswitch">
+		</menuSwitch>
+		<menuSize name="menuSize">
+			<height>0.7</height>
+		</menuSize>
+		<menuText name="menufooter">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>aeaeae</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>ffffff</color>
+			<separatorColor>aeaeae</separatorColor>
+			<selectorColor>eaeaea</selectorColor>
+			<selectedColor>403f3f</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>aeaeae</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>14</fontSize>
+			<color>aeaeae</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<color>666666</color>
+		</menuBackground>
+		<helpsystem name="help">
+		</helpsystem>
+	</view>
+	<feature supported="carousel">
+		<view name="system">
+			<carousel name="systemcarousel">
+				<defaultTransition>instant</defaultTransition>
+				<type>vertical</type>
+				<pos>0.277 0.3</pos>
+				<size>0.491 0.525</size>
+				<color>1E0000EE</color>
+				<maxLogoCount>10</maxLogoCount>
+				<logoAlignment>left</logoAlignment>
+				<logoScale>1</logoScale>
+				<fontPath>:/f8bitfortressplus.ttf</fontPath>
+				<fontSize>6</fontSize>
+			</carousel>
+		</view>
+	</feature>
+
+	<view name="system">
+		<text name="systemInfo">
+			<pos>1 1</pos>
+		</text>
+	</view>
+
+	<view name="menu, system, basic, detailed">
+		<image name="background_color" extra="true">
+			<path>./_inc/images/backgrounds/mono-noise.jpg</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<zIndex>0</zIndex>
+		</image>
+	</view>
+
+
+	<view name="system, detailed, basic">
+		<box name="header" extra="true" pos="0.235 0.183" size="0.533 0.0625" color="FFDFDFEE"/>
+		<box name="left-column" extra="true" pos="0.235 0.3" size="0.042 0.525" color="FFDFDFEE"/>
+		<text name="screen-name" extra="true">
+			<rotation>270</rotation>
+			<color>000000</color>
+			<text>System</text>
+			<pos>0.240 0.65</pos>
+			<size>0.393 0.0347</size>
+			<fontSize>7</fontSize>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<forceUppercase>1</forceUppercase>
+			<lineSpacing>2</lineSpacing>
+		</text>
+		<text name="system-name" extra="true">
+			<color>000000</color>
+			<pos>0.26 0.179</pos>
+			<size>0.533 0.0625</size>
+			<text>Recalbox</text>
+			<fontSize>7</fontSize>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<forceUppercase>1</forceUppercase>
+			<lineSpacing>2</lineSpacing>
+		</text>
+	</view>
+
+
+	<view name="detailed, basic">
+		<box name="right-column" extra="true" pos="0.277 0.3" size="0.491 0.525" color="1E0000EE"/>
+		<textlist name="gamelist">
+			<pos>0.285 0.3</pos>
+			<size>0.4838 0.51</size>
+			<selectorColor>FFDFDF</selectorColor>
+			<selectedColor>1E0000</selectedColor>
+			<primaryColor>FFDFDF</primaryColor>
+			<secondaryColor>FFDFDF</secondaryColor>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>6</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<lineSpacing>2</lineSpacing>
+			<alignment>left</alignment>
+		</textlist>
+		<text name="screen-name" extra="true">
+			<text>Games</text>
+		</text>
+
+		<text name="logoText"/>
+
+	</view>
+
+</theme>

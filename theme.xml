@@ -1,0 +1,5 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./theme-defaults.xml</include>
+	<include>./system/$system/custom.xml</include>
+</theme>
