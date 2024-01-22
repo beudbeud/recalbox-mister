@@ -23,5 +23,5 @@ v0.0.1
 
 ## Preview
 
-<img src="https://i.ibb.co/4SxXvg8/screenshot-2024-01-22-T09-21-54-801.png" width="320" height="240">
-<img src="https://i.ibb.co/PxBkjrW/screenshot-2024-01-22-T13-42-28-787-Z.png" width="320" height="240">
+<img src="https://i.ibb.co/dpyVCJP/screenshot-2024-01-22-T09-21-54-801.png" width="320" height="240">
+<img src="https://i.ibb.co/kKYZBGD/screenshot-2024-01-22-T13-42-28-787-Z.png" width="320" height="240">
