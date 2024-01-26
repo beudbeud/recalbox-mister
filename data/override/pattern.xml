@@ -3,7 +3,7 @@
 
 	<view name="menu, system, basic, detailed">
 		<image name="background">
-			<path>../../_inc/images/backgrounds/test-pattern.jpg</path>
+			<path>../../_inc/images/backgrounds/test-pattern.png</path>
 		</image>
 	</view>
 </theme>
