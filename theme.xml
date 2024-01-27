@@ -1,4 +1,4 @@
-<theme>
+<theme name="Mister 240p" version="9.2" compatibility="crt,jamma">
 	<formatVersion>4</formatVersion>
 	<include>./theme-defaults.xml</include>
 	<include>./system/$system/custom.xml</include>
