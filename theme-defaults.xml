@@ -67,6 +67,7 @@
 			<size>1 1</size>
 			<zIndex>0</zIndex>
 		</image>
+		<box name="cover" extra="true" pos="0 0" size="1 1" color="0000004D" zIndex="1"/>
 		<helpsystem name="help">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<textColor>ffffff</textColor>
@@ -78,7 +79,7 @@
 
 
 	<view name="system, detailed, basic">
-		<box name="header" extra="true" pos="0.235 0.183" size="0.533 0.0625" color="FFDFDFEE"/>
+		<box name="header" extra="true" pos="0.235 0.183" size="0.533 0.0625" color="FFDFDFEE" zIndex="2"/>
 		<text name="screen-name" extra="true">
 			<rotation>270</rotation>
 			<color>000000</color>
@@ -88,6 +89,7 @@
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<lineSpacing>2</lineSpacing>
+			<zIndex>3</zIndex>
 		</text>
 		<text name="system-name" extra="true">
 			<color>000000</color>
@@ -98,12 +100,13 @@
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<lineSpacing>2</lineSpacing>
+			<zIndex>3</zIndex>
 		</text>
 	</view>
 
 
 	<view name="detailed, basic">
-		<box name="right-column" extra="true" pos="0.277 0.3" size="0.491 0.525" color="1E0000EE"/>
+		<box name="right-column" extra="true" pos="0.277 0.3" size="0.491 0.525" color="1E0000EE" zIndex="2"/>
 		<textlist name="gamelist">
 			<pos>0.285 0.3</pos>
 			<size>0.4838 0.51</size>
@@ -116,6 +119,7 @@
 			<forceUppercase>1</forceUppercase>
 			<lineSpacing>2</lineSpacing>
 			<alignment>left</alignment>
+			<zIndex>3</zIndex>
 		</textlist>
 		<text name="screen-name" extra="true">
 			<text>Games</text>
