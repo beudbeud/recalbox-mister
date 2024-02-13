@@ -15,7 +15,7 @@
 		<menuText name="menutext">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>7</fontSize>
-			<color>ffffff</color>
+			<color>fffffffc</color>
 			<separatorColor>aeaeae</separatorColor>
 			<selectorColor>eaeaea</selectorColor>
 			<selectedColor>403f3f</selectedColor>
