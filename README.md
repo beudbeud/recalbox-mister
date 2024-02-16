@@ -11,7 +11,9 @@ A simple theme for the version of EmulationStation used in Recalbox.
 
 ## Compatibility
 
-Recalbox >9.2 : OK
+- Recalbox > 9.2
+- CRT / JAMMA 240/480p
+- TATE
 
 ## Updates
 
