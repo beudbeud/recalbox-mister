@@ -1,6 +1,7 @@
-<theme name="Mister 240p" version="1.1" recalbox="9.2" compatibility="crt,jamma">
+<theme name="Mister 240p" version="2.0" recalbox="9.2" compatibility="crt,jamma,tate" resolutions="qvga,vga">
 	<formatVersion>4</formatVersion>
 	<include>./theme-defaults.xml</include>
 	<include>./system/$system/custom.xml</include>
 	<include>./data/config.xml</include>
+	<include>./data/gameclip.xml</include>
 </theme>

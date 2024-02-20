@@ -3,5 +3,6 @@
 
 	<view name="basic, detailed">
 		<image name="md_image" disabled="true"/>
+		<image name="md_video" disabled="true"/>
 	</view>
 </theme>

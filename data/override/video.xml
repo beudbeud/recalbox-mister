@@ -1,0 +1,15 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<video name="bg_video" extra="true">
+			<path>../../_inc/noise.mp4</path>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<animations>none</animations>
+			<delay>0</delay>
+			<zIndex>0</zIndex>
+		</video>
+		<box name="cover" extra="true" pos="0 0" size="1 1" color="00000033" zIndex="1"/>
+	</view>
+</theme>

@@ -1,0 +1,7 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="gameclip">
+		<video name="md_video" pos="0 0" origin="0 0" size="1 1" zIndex="2" delay="0" />
+		<helpsystem name="help" pos="1 1" />
+	</view>
+</theme>

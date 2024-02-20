@@ -127,7 +127,6 @@
 
 		<text name="logoText"/>
 
-		<video name="md_video" disabled="true"/>
 		<rating name="md_rating" disabled="true"/>
 		<datetime name="md_releasedate" disabled="true"/>
 		<text name="md_folder_name" pos="1 1"/>

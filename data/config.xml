@@ -9,8 +9,11 @@
 
 	<include subset="systemview" name="1-noise">./override/noise.xml</include>
 	<include subset="systemview" name="2-pattern">./override/pattern.xml</include>
-	<include subset="systemview" name="3-none">./override/none.xml</include>
+	<include subset="systemview" name="3-video">./override/video.xml</include>
+	<include subset="systemview" name="4-none">./override/none.xml</include>
 
 	<include subset="gamelistview" name="1-no">./override/nobg.xml</include>
-	<include subset="gamelistview" name="2-yes">./override/bg.xml</include>
+	<include subset="gamelistview" name="2-image">./override/bg.xml</include>
+	<include subset="gamelistview" name="3-video">./override/bg_video.xml</include>
+	<include subset="gamelistview" name="4-noise">./override/bg_noise.xml</include>
 </theme>
