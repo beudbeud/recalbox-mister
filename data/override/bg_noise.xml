@@ -11,5 +11,6 @@
 			<zIndex>0</zIndex>
 		</video>
 		<image name="md_video" disabled="1"/>
+		<box name="cover" extra="true" pos="0 0" size="1 1" color="00000033" zIndex="1"/>
 	</view>
 </theme>
