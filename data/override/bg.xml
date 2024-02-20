@@ -8,5 +8,6 @@
 			<size>1 1</size>
 			<zIndex>1</zIndex>
 		</image>
+		<image name="md_video" disabled="1"/>
 	</view>
 </theme>

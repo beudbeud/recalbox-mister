@@ -3,4 +3,5 @@
 	<include>./theme-defaults.xml</include>
 	<include>./system/$system/custom.xml</include>
 	<include>./data/config.xml</include>
+	<include>./data/gameclip.xml</include>
 </theme>

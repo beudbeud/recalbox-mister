@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="basic, detailed">
+		<video name="md_video">
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<animations>none</animations>
+			<delay>1</delay>
+			<zIndex>1</zIndex>
+			<path>../../_inc/noise.mp4</path>
+		</video>
+	</view>
+</theme>
