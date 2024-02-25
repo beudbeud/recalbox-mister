@@ -1,6 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
-	<view name="system, basic, detailed, gameclip">
+	<view name="system, menu, detailed, gameclip">
 		<helpsystem name="help">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>7</fontSize>
