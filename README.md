@@ -17,6 +17,13 @@ A simple theme for the version of EmulationStation used in Recalbox.
 
 ## Updates
 
+v2.3
+
+```
+* Fix toaplan
+* fix background
+```
+
 v2.2
 
 ```
