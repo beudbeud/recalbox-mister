@@ -1,0 +1,9 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="basic, detailed">
+		<text name="system-name" extra="true">
+			<text>Taito G-NET</text>
+		</text>
+	</view>
+	
+</theme>
