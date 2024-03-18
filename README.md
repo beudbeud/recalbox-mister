@@ -21,6 +21,7 @@ v2.4
 
 ```
 * Add new virtual system
+* fix gameclip 
 ```
 
 v2.3
