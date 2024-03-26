@@ -17,5 +17,5 @@
 	<include subset="gamelistview" name="3-game_video">./override/bg_video.xml</include>
 	<include subset="gamelistview" name="4-noise_video">./override/bg_noise.xml</include>
 		
-	<include subset="gameclipview" name="1 - no_info">./gameclip.xml</include>
+	<include subset="gameclipview" name="1-no_info">./gameclip.xml</include>
 </theme>
