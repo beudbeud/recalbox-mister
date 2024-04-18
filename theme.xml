@@ -1,4 +1,4 @@
-<theme name="Mister 240p" version="2.5" recalbox="9.2" compatibility="crt,jamma,tate,hdmi" resolutions="qvga,vga">
+<theme name="Mister 240p" version="2.6" recalbox="9.2" compatibility="crt,jamma,tate,hdmi" resolutions="qvga,vga">
 	<formatVersion>4</formatVersion>
 	<include>./theme-defaults.xml</include>
 	<include>./system/$system/custom.xml</include>

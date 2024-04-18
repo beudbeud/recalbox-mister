@@ -17,6 +17,13 @@ A simple theme for the version of EmulationStation used in Recalbox.
 
 ## Updates
 
+
+v2.6
+
+```
+* Add raizing virtual system
+```
+
 v2.5
 
 ```
